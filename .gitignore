@@ -6,3 +6,7 @@
 /build
 /captures
 .externalNativeBuildExtensions
+**/build/
+.gradle/
+local.properties
+*.hprof

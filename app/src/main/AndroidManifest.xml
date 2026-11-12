@@ -21,9 +21,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TabTabTv"
         android:usesCleartextTraffic="true">
-
-        <!-- usesCleartextTraffic is needed because most Xtream Codes panels are plain HTTP.
-             For production, prefer a network_security_config scoped to the user's own panel host. -->
+        <!-- Many legal free-to-air IPTV/radio sources are served over plain HTTP. -->
 
         <activity
             android:name=".MainActivity"
