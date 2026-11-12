@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TabTab TV</string>
+    <string name="login_title">Connexion</string>
+    <string name="login_server_hint">URL du serveur (http://panel.example.com:8080)</string>
+    <string name="login_username_hint">Identifiant</string>
+    <string name="login_password_hint">Mot de passe</string>
+    <string name="login_submit">Se connecter</string>
+    <string name="login_error">Connexion impossible. Vérifie l\'URL, l\'identifiant et le mot de passe.</string>
+    <string name="tab_live">TV en direct</string>
+    <string name="tab_vod">Films</string>
+    <string name="tab_series">Séries</string>
+    <string name="action_logout">Déconnexion</string>
+</resources>
